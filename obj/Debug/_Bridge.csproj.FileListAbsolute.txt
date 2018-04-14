@@ -1,0 +1,12 @@
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 10\_Bridge\bin\Debug\_Bridge.exe.config
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 10\_Bridge\bin\Debug\_Bridge.exe
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 10\_Bridge\bin\Debug\_Bridge.pdb
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 10\_Bridge\obj\Debug\_Bridge.csprojResolveAssemblyReference.cache
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 10\_Bridge\obj\Debug\_Bridge.exe
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 10\_Bridge\obj\Debug\_Bridge.pdb
+C:\Users\Harun\Desktop\OOP\Hafta 10\_Bridge\bin\Debug\_Bridge.exe.config
+C:\Users\Harun\Desktop\OOP\Hafta 10\_Bridge\obj\Debug\_Bridge.exe
+C:\Users\Harun\Desktop\OOP\Hafta 10\_Bridge\obj\Debug\_Bridge.pdb
+C:\Users\Harun\Desktop\OOP\Hafta 10\_Bridge\bin\Debug\_Bridge.exe
+C:\Users\Harun\Desktop\OOP\Hafta 10\_Bridge\bin\Debug\_Bridge.pdb
+C:\Users\Harun\Desktop\OOP\Hafta 10\_Bridge\obj\Debug\_Bridge.csprojResolveAssemblyReference.cache
